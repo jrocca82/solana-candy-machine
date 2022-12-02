@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "CeDUohkTQ5SNCHcnRyyF6tbWGdpEbdti5k2yEyVEscjT",
+    "candyMachineCreator": "AU645RqD2RP4SQZoXF8CpExubvaecnAVot4wseVrb815",
+    "collectionMint": "GUxWY9fXmDzbTqMRWvEhhFMQKGCktzx8n7YjyiE9LhTU"
+  },
+  "items": {
+    "-1": {
+      "name": "Skittles Collection",
+      "image_hash": "e80e25dddaa4c5bc14f8997f10d3d5746bb0875e4a182eb88ed8c94944ab633b",
+      "image_link": "https://arweave.net/lwZnwjzYlngdh_idAPCzZqEYWEgixonge05T_XiiZlI?ext=png",
+      "metadata_hash": "1f44927d3ea226b31e31923d52a8281b80f2f637ba054206f6c7b433cfc7a8aa",
+      "metadata_link": "https://arweave.net/mT8FWl0Rdr6QIO1SEDwkD0ij6gKldNKclDLKh8SUgD4",
+      "onChain": true
+    },
+    "0": {
+      "name": "Red Skittle",
+      "image_hash": "35ab5a420c3e163e4124b7c92fbb0a9f1534b03878e472938780c53517a0b734",
+      "image_link": "https://arweave.net/CG6C1667olw0uxXdqx7FAwc_-t2px13neAN19_X9_tw?ext=png",
+      "metadata_hash": "d33efe8d0b80ce56b80a604d877a6b8a3e2d6e74f9b39e1941f0f551ebc463e4",
+      "metadata_link": "https://arweave.net/d9MAUNsKJbwyNGEtzPmlCXXkw-_vuHLWIE-LCrXCOSM",
+      "onChain": true
+    },
+    "1": {
+      "name": "Purple Skittle",
+      "image_hash": "de06450d07af434faaf0c37b6142738c29adfba9d074299fc7a32bdaa580c731",
+      "image_link": "https://arweave.net/7ELKdWSJTR-zJPqtvY5ZMoIh3MdJTSrvY5vDXvWr3zk?ext=png",
+      "metadata_hash": "68fd0a4d19c8ebb3c5d7a40309e07e8b4a260d0640422516dc513fbfa15db33c",
+      "metadata_link": "https://arweave.net/yXxxJiF_hBTNFzgkMK5QqhZ0ISFzYfKuLRffcgKsLEk",
+      "onChain": true
+    },
+    "2": {
+      "name": "Green Skittle",
+      "image_hash": "6b4a98671788014342fa978c9bb88750dc5d86a8fb31f4a2c055ce0197b80e18",
+      "image_link": "https://arweave.net/3c5rjZ9yroIC-FCrAtJnKWrP-JIsJfVn5A7d_WO_PiQ?ext=png",
+      "metadata_hash": "b366058683f324f9ec79d2d7083292cfb4d4400e9a0270b0c5a3cc56ae502c5c",
+      "metadata_link": "https://arweave.net/VxORUnEtwrDCwsoyS-A1WRaIQ1oLMlNYruWkK096v7s",
+      "onChain": true
+    },
+    "3": {
+      "name": "Yellow Skittle",
+      "image_hash": "ec7c7293b183d1adc62f08f033b0bd7c12cd96ece1adcb33a0a4bc824c0846c6",
+      "image_link": "https://arweave.net/tU_NC5-M0_Z8CEjPPaZiPIBlKnZ2p2Jmmzu9HfM1sqo?ext=png",
+      "metadata_hash": "50531c43f03df5937fe40c9278f4a6db4eb9813bbd746d4049ac79a81c035139",
+      "metadata_link": "https://arweave.net/l6uI_GGk3OsckAkSwMshtJlNY0xNxxKVM33R5ePHUjw",
+      "onChain": true
+    },
+    "4": {
+      "name": "Orange Skittle",
+      "image_hash": "72a0e4f5c5605151ed195651b5a668c78d663e512be8dfae472ed2d6377dfdc8",
+      "image_link": "https://arweave.net/m291o-c8YsOQR5dOgd4PGZVm7eg_dLsQbYAXdWNRzyY?ext=png",
+      "metadata_hash": "dfeb264935710e6c98553085c5c3a32acc088c2ba788016d144f408325e28a9f",
+      "metadata_link": "https://arweave.net/Nrc-BgMP1sYQY5lVH3OqFKhL_cpPyazcEFkC2WNqy8U",
+      "onChain": true
+    }
+  }
+}
